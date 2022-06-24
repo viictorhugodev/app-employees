@@ -2,8 +2,7 @@
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
+
 ### General Info
 ***
 This project is a simple development test with React JS
@@ -32,7 +31,7 @@ A list of technologies used within the project:
 ***
 A little intro about the installation. 
 ```
-$ git clone https://pathrepo.com
+$ git clone https://github.com/viictorhugodev/app-employees.git
 $ cd ../path/to/the/file
 $ npm install
 $ npm run dev
@@ -40,3 +39,5 @@ $ npm run dev
 to deploy in production
 $ npm run build
 ```
+
+The login works without including the dummy user, you just have to click to log in and the site is only optimized for web
