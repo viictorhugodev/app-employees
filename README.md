@@ -40,4 +40,4 @@ to deploy in production
 $ npm run build
 ```
 
-The login works without including the dummy user, you just have to click to log in
+The login works without including the dummy user, you just have to click to log in and the site is only optimized for web
