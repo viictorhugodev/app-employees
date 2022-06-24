@@ -31,7 +31,7 @@ A list of technologies used within the project:
 ***
 A little intro about the installation. 
 ```
-$ git clone https://pathrepo.com
+$ git clone https://github.com/viictorhugodev/app-employees.git
 $ cd ../path/to/the/file
 $ npm install
 $ npm run dev
