@@ -2,8 +2,7 @@
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
+
 ### General Info
 ***
 This project is a simple development test with React JS
@@ -40,3 +39,5 @@ $ npm run dev
 to deploy in production
 $ npm run build
 ```
+
+The login works without including the dummy user, you just have to click to log in
